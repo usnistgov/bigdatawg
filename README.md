@@ -5,11 +5,11 @@ This is document repository for the website: [https://bigdatawg.nist.gov](https:
 ---
 The NIST Big Data Public Workinig Group (NBD-PWG) was established together with the industry, academia and government to create a consensus-based extensible Big Data Interoperability Framework (NBDIF) which is a vendor-neutral, technology- and infrastructure-independent ecosystem. It can enable Big Data stakeholders (e.g. data scientists, researchers, etc.) to utilize the best available analytics tools to process and derive knowledge through the use of standard interfaces between swappable architectural components. The NBDIF is being developed in three stages with the goal to achieve the following with respect to the NIST Big Data Reference Architecture (NBD-RA):
 
-Identify the high-level Big Data reference architecture key components, which are technology, infrastructure, and vendor agnostic;
+- Identify the high-level Big Data reference architecture key components, which are technology, infrastructure, and vendor agnostic;
 
-Define general interfaces between the NBD-RA components with the goals to aggregate low-level interactions into high-level general interfaces and produce set of white papers to demonstrate how NBD-RA can be used;
+- Define general interfaces between the NBD-RA components with the goals to aggregate low-level interactions into high-level general interfaces and produce set of white papers to demonstrate how NBD-RA can be used;
 
-Validate the NBD-RA by building Big Data general applications through the general interfaces.
+- Validate the NBD-RA by building Big Data general applications through the general interfaces.
 
 
 Input Document Listing - Entire
