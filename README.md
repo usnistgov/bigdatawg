@@ -1,7 +1,7 @@
 # bigdatawg
 Document repository for NIST Big Data Public Working Group (NBD-PWG)
 ---
-This is document repository for the website: [https://bigdatawg.nist.gov](https://bigdatawg.nist.gov/)
+This is a document repository for the website: [https://bigdatawg.nist.gov](https://bigdatawg.nist.gov/)
 ---
 The NIST Big Data Public Workinig Group (NBD-PWG) was established together with the industry, academia and government to create a consensus-based extensible Big Data Interoperability Framework (NBDIF) which is a vendor-neutral, technology- and infrastructure-independent ecosystem. It can enable Big Data stakeholders (e.g. data scientists, researchers, etc.) to utilize the best available analytics tools to process and derive knowledge through the use of standard interfaces between swappable architectural components. The NBDIF is being developed in three stages with the goal to achieve the following with respect to the NIST Big Data Reference Architecture (NBD-RA):
 
